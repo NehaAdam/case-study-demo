@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="demoPhpApp" default="zip" basedir=".">
+<project name="C:\wamp\www\demoPhpApp" default="zip" basedir=".">
 
 	<property name="project-name" value="${demoPhpApp}" />
 	<property name="folder-to-zip" value="demoPhpApp" />
